@@ -1,0 +1,5 @@
+<project name="Sample usage of Salesforce Ant tasks" default="test" basedir="." xmlns:sf="antlib:com.salesforce">
+<target name="deployCodeCheckOnly">
+	  <echo>GIT TEST</echo>
+	  <echo>Bandi Krishna Kishore</echo>
+</target>
